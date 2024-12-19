@@ -5,7 +5,7 @@
 
 <div align="center">自定义频道，自动获取直播源接口，测速验效后生成可用的结果</div>
 
-<details>
+
 
 </details>
 <br>
