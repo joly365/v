@@ -17,40 +17,5 @@ https://cdn.jsdelivr.net/gh/xzw832/cmys@main/S_weishi.txt
 https://cdn.jsdelivr.net/gh/asdjkl6/tv@tv/.m3u/整套直播源/测试/整套直播源/l.txt
 https://cdn.jsdelivr.net/gh/asdjkl6/tv@tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 
-http://175.178.251.183:6689/live.txt
-http://175.178.251.183:6689/tv.txt
-http://99.weidonglong.com/99.txt
-http://home.jundie.top:81/Cat/tv/live.txt
-https://ghgo.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u
-https://gcore.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u
-https://tv.203511.xyz/tv.m3u
-https://ghgo.xyz/https://raw.githubusercontent.com/mygoww/xoxo/main/zb/%E6%B5%8B%E8%AF%95.txt
-https://ghgo.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u
-
-
-https://live.zhoujie218.top/tv/iptv6.txt
-https://live.zhoujie218.top/tv/iptv4.txt
-https://www.mytvsuper.xyz/m3u/Live.m3u
-https://tv.youdu.fan:666/live/
-http://ww.weidonglong.com/dsj.txt
-http://xhztv.top/zbc.txt
-https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt
-https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
-http://home.jundie.top:81/Cat/tv/live.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt
-https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u
-https://fm1077.serv00.net/SmartTV.m3u
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-https://github.com/SPX372928/MyIPTV/blob/master/%E9%BB%91%E9%BE%99%E6%B1%9FPLTV%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt
-https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-https://tv.iill.top/m3u/Gather
-https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3ut"
-https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
-https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u
-http://tot.totalh.net/tttt.txt
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u
-https://github.com/YanG-1989/m3u/blob/main/Gather.m3u
-https://gitee.com/pinro/IPTV1/raw/main/live.txt 
  
    
