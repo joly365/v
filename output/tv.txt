@@ -1,8 +1,36 @@
 
 央视频道,#genre#
+CCTV1,http://113.140.86.162:8009/hls/501/index.m3u8$订阅源
+CCTV2,http://113.140.86.162:8009/hls/502/index.m3u8$订阅源
+CCTV3,http://113.140.86.162:8009/hls/3/index.m3u8$订阅源
+CCTV4,http://113.140.86.162:8009/hls/4/index.m3u8$订阅源
+CCTV5,http://113.140.86.162:8009/hls/503/index.m3u8$订阅源
+CCTV6,http://113.140.86.162:8009/hls/6/index.m3u8$订阅源
+CCTV7,http://113.140.86.162:8009/hls/504/index.m3u8$订阅源
+CCTV8,http://113.140.86.162:8009/hls/8/index.m3u8$订阅源
+CCTV9,http://113.140.86.162:8009/hls/509/index.m3u8$订阅源
+CCTV10,http://113.140.86.162:8009/hls/506/index.m3u8$订阅源
+CCTV12,http://113.140.86.162:8009/hls/507/index.m3u8$订阅源
+CCTV-1,http://113.140.86.162:8009/hls/501/index.m3u8$订阅源
+CCTV-2,http://113.140.86.162:8009/hls/502/index.m3u8$订阅源
+CCTV-3,http://113.140.86.162:8009/hls/3/index.m3u8$订阅源
+CCTV-4,http://113.140.86.162:8009/hls/4/index.m3u8$订阅源
+CCTV-5,http://113.140.86.162:8009/hls/503/index.m3u8$订阅源
+CCTV-6,http://113.140.86.162:8009/hls/6/index.m3u8$订阅源
+CCTV-7,http://113.140.86.162:8009/hls/504/index.m3u8$订阅源
+CCTV-8,http://113.140.86.162:8009/hls/8/index.m3u8$订阅源
+CCTV-9,http://113.140.86.162:8009/hls/509/index.m3u8$订阅源
+CCTV-10,http://113.140.86.162:8009/hls/506/index.m3u8$订阅源
+CCTV-12,http://113.140.86.162:8009/hls/507/index.m3u8$订阅源
 
 卫视频道,#genre#
+湖南卫视,http://113.140.86.162:8009/hls/32/index.m3u8$订阅源
+浙江卫视,http://113.140.86.162:8009/hls/34/index.m3u8$订阅源
 安徽卫视,http://223.241.247.214:85//tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+东方卫视,http://113.140.86.162:8009/hls/31/index.m3u8$订阅源
+江苏卫视,http://113.140.86.162:8009/hls/33/index.m3u8$订阅源
+天津卫视,http://113.140.86.162:8009/hls/44/index.m3u8$订阅源
+云南卫视,https://hwapi.yntv.net/62hdvf/41hse3.m3u8$订阅源
 
 湖南频道,#genre#
 
@@ -10,13 +38,13 @@
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8$订阅源
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$订阅源
