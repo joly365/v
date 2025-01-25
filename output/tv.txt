@@ -15,8 +15,8 @@ CCTV9,https://tvpull.careryun.com/tv/cctv9.m3u8$订阅源
 CCTV10,https://tvpull.careryun.com/tv/cctv10.m3u8$订阅源
 CCTV11,https://tvpull.careryun.com/tv/cctv11.m3u8$订阅源
 CCTV12,https://tvpull.careryun.com/tv/cctv12.m3u8$订阅源
-CCTV13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV13,https://tvpull.careryun.com/tv/cctv13.m3u8$订阅源
+CCTV13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV14,https://tvpull.careryun.com/tv/cctv14.m3u8$订阅源
 CCTV15,https://tvpull.careryun.com/tv/cctv15.m3u8$订阅源
 CCTV17,https://tvpull.careryun.com/tv/cctv17.m3u8$订阅源
@@ -35,23 +35,14 @@ CCTV-9,https://tvpull.careryun.com/tv/cctv9.m3u8$订阅源
 CCTV-10,https://tvpull.careryun.com/tv/cctv10.m3u8$订阅源
 CCTV-11,https://tvpull.careryun.com/tv/cctv11.m3u8$订阅源
 CCTV-12,https://tvpull.careryun.com/tv/cctv12.m3u8$订阅源
-CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV-13,https://tvpull.careryun.com/tv/cctv13.m3u8$订阅源
+CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV-14,https://tvpull.careryun.com/tv/cctv14.m3u8$订阅源
 CCTV-15,https://tvpull.careryun.com/tv/cctv15.m3u8$订阅源
 CCTV-17,https://tvpull.careryun.com/tv/cctv17.m3u8$订阅源
 
 卫视频道,#genre#
-北京卫视,http://36.32.174.67:60080/newlive/live/hls/25/live.m3u8$订阅源
-湖北卫视,http://36.32.174.67:60080/newlive/live/hls/28/live.m3u8$订阅源
-重庆卫视,http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8$订阅源
-东方卫视,http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8$订阅源
-广西卫视,http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8$订阅源
-海南卫视,http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8$订阅源
-河北卫视,http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8$订阅源
-江西卫视,http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8$订阅源
-江西卫视,http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8$订阅源
-宁夏卫视,http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8$订阅源
+安徽卫视,http://223.241.247.214:85//tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=a3ed97a11718418819$订阅源
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=90771a491736935607$订阅源
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484$订阅源
@@ -62,14 +53,6 @@ CCTV-17,https://tvpull.careryun.com/tv/cctv17.m3u8$订阅源
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=58dbacb91718844831$订阅源
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=8b2f07cc1707359845$订阅源
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8$订阅源
-山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8$订阅源
-陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=$订阅源
-陕西卫视,http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8$订阅源
-四川卫视,http://36.32.174.67:60080/newlive/live/hls/29/live.m3u8$订阅源
-天津卫视,http://36.32.174.67:60080/newlive/live/hls/26/live.m3u8$订阅源
-西藏卫视,http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8$订阅源
-新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8$订阅源
-云南卫视,http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8$订阅源
 
 湖南频道,#genre#
 
@@ -77,9 +60,3 @@ CCTV-17,https://tvpull.careryun.com/tv/cctv17.m3u8$订阅源
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8$订阅源
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$订阅源
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$订阅源
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$订阅源
