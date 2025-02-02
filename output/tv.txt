@@ -1,54 +1,26 @@
 
 央视频道,#genre#
-CCTV1,http://60.29.124.66:6080/hls/12/index.m3u8$订阅源
 CCTV2,http://116.77.32.59:8277/streams/d/cctv2/playlist.m3u8$订阅源
-CCTV2,http://60.29.124.66:6080/hls/13/index.m3u8$订阅源
 CCTV3,http://183.255.10.90:6610/200000001898/460000089800010212/1.m3u8?IASHttpSessionId=OTT$订阅源
 CCTV3,http://116.77.32.59:8277/streams/d/cctv3/playlist.m3u8$订阅源
-CCTV3,http://60.29.124.66:6080/hls/14/index.m3u8$订阅源
 CCTV4,https://tvpull.careryun.com/tv/cctv4.m3u8$订阅源
-CCTV4,http://60.29.124.66:6080/hls/15/index.m3u8$订阅源
 CCTV5,http://116.77.32.59:8277/streams/d/cctv5/playlist.m3u8$订阅源
-CCTV5,http://60.29.124.66:6080/hls/16/index.m3u8$订阅源
 CCTV5+,http://116.77.32.59:8277/streams/d/cctv5a/playlist.m3u8$订阅源
-CCTV6,http://60.29.124.66:6080/hls/17/index.m3u8$订阅源
-CCTV7,http://60.29.124.66:6080/hls/18/index.m3u8$订阅源
-CCTV8,http://60.29.124.66:6080/hls/19/index.m3u8$订阅源
-CCTV9,http://60.29.124.66:6080/hls/20/index.m3u8$订阅源
-CCTV10,http://60.29.124.66:6080/hls/21/index.m3u8$订阅源
 CCTV11,https://tvpull.careryun.com/tv/cctv11.m3u8$订阅源
-CCTV11,http://60.29.124.66:6080/hls/22/index.m3u8$订阅源
 CCTV13,https://tvpull.careryun.com/tv/cctv13.m3u8$订阅源
-CCTV13,http://60.29.124.66:6080/hls/23/index.m3u8$订阅源
 CCTV14,https://tvpull.careryun.com/tv/cctv14.m3u8$订阅源
-CCTV14,http://60.29.124.66:6080/hls/25/index.m3u8$订阅源
 CCTV15,https://tvpull.careryun.com/tv/cctv15.m3u8$订阅源
-CCTV15,http://60.29.124.66:6080/hls/26/index.m3u8$订阅源
 CCTV17,https://tvpull.careryun.com/tv/cctv17.m3u8$订阅源
-CCTV-1,http://60.29.124.66:6080/hls/12/index.m3u8$订阅源
 CCTV-2,http://116.77.32.59:8277/streams/d/cctv2/playlist.m3u8$订阅源
-CCTV-2,http://60.29.124.66:6080/hls/13/index.m3u8$订阅源
 CCTV-3,http://183.255.10.90:6610/200000001898/460000089800010212/1.m3u8?IASHttpSessionId=OTT$订阅源
 CCTV-3,http://116.77.32.59:8277/streams/d/cctv3/playlist.m3u8$订阅源
-CCTV-3,http://60.29.124.66:6080/hls/14/index.m3u8$订阅源
 CCTV-4,https://tvpull.careryun.com/tv/cctv4.m3u8$订阅源
-CCTV-4,http://60.29.124.66:6080/hls/15/index.m3u8$订阅源
 CCTV-5,http://116.77.32.59:8277/streams/d/cctv5/playlist.m3u8$订阅源
-CCTV-5,http://60.29.124.66:6080/hls/16/index.m3u8$订阅源
 CCTV-5+,http://116.77.32.59:8277/streams/d/cctv5a/playlist.m3u8$订阅源
-CCTV-6,http://60.29.124.66:6080/hls/17/index.m3u8$订阅源
-CCTV-7,http://60.29.124.66:6080/hls/18/index.m3u8$订阅源
-CCTV-8,http://60.29.124.66:6080/hls/19/index.m3u8$订阅源
-CCTV-9,http://60.29.124.66:6080/hls/20/index.m3u8$订阅源
-CCTV-10,http://60.29.124.66:6080/hls/21/index.m3u8$订阅源
 CCTV-11,https://tvpull.careryun.com/tv/cctv11.m3u8$订阅源
-CCTV-11,http://60.29.124.66:6080/hls/22/index.m3u8$订阅源
 CCTV-13,https://tvpull.careryun.com/tv/cctv13.m3u8$订阅源
-CCTV-13,http://60.29.124.66:6080/hls/23/index.m3u8$订阅源
 CCTV-14,https://tvpull.careryun.com/tv/cctv14.m3u8$订阅源
-CCTV-14,http://60.29.124.66:6080/hls/25/index.m3u8$订阅源
 CCTV-15,https://tvpull.careryun.com/tv/cctv15.m3u8$订阅源
-CCTV-15,http://60.29.124.66:6080/hls/26/index.m3u8$订阅源
 CCTV-17,https://tvpull.careryun.com/tv/cctv17.m3u8$订阅源
 
 卫视频道,#genre#
@@ -80,7 +52,6 @@ CCTV-17,https://tvpull.careryun.com/tv/cctv17.m3u8$订阅源
 深圳卫视,http://tvpull.careryun.com/tv/cn_szws.m3u8$订阅源
 天津卫视,http://tvpull.careryun.com/tv/cn_tjws.m3u8$订阅源
 新疆卫视,http://tvpull.careryun.com/tv/cn_xjws.m3u8$订阅源
-云南卫视,https://hwapi.yntv.net/62hdvf/41hse3.m3u8$订阅源
 
 湖南频道,#genre#
 
